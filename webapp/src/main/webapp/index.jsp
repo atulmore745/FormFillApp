@@ -1,8 +1,8 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome!! Saidemy DevOps Student Registration Form!!</h1>
+    <h1>Welcome!!  Saidemy DevOps Student Registration Form!!</h1>
     <p>Please fill in this form for registration!!</p>
-    <hr>
+    <hrfg
     <br>  
 
     <label for="email"><b>Email</b></label>
