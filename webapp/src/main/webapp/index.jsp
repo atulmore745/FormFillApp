@@ -5,6 +5,10 @@
     <hrfg
     <br>  
 
+    <label for="adhar"><b>Adhar</b></label>
+    <input type="text" placeholder="Enter adhar" name="adhar" id="adhar" required>
+    <br>
+
     <label for="name"><b>Name</b></label>
     <input type="text" placeholder="Enter Name" name="Name" id="name" required>
     <br>
