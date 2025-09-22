@@ -13,10 +13,6 @@
     <input type="text" placeholder="Enter  name Mother" name="mother" id="mother" required>
     <br>
     
-    <label for="Bap"><b>Manas Ke kitne Bap</b></label>
-    
-    <input type="text" placeholder="Number of fathers" name="Fathers" id="fathers" required>
-    <br>
    
     <label for="name"><b>Name</b></label>
     <input type="text" placeholder="Enter Name" name="Name" id="name" required>
